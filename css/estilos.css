@@ -37,7 +37,6 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
     margin: 0 auto;
 }
 
@@ -49,4 +48,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer
+{
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
